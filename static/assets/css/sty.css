@@ -1,0 +1,10 @@
+<style>
+.c {
+    background: url(./static/assets/img/banner2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+    min-height: 980px;
+}
+
+</style>
